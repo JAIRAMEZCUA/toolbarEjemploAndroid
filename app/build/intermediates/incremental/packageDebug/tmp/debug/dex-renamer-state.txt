@@ -1,0 +1,4 @@
+#Mon Sep 28 10:33:59 CDT 2020
+base.0=/Users/kmmx/AndroidStudioProjects/ToolbarEjemplo/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
